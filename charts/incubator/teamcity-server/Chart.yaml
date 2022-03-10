@@ -9,7 +9,7 @@ description: Powerful continuous integration for DevOps-centric teams
 home: https://github.com/truecharts/apps/tree/master/charts/stable/teamcity-server
 icon: 
 keywords:
-- Build
+- Development
 kubeVersion: '>=1.16.0-0'
 maintainers:
 - email: info@truecharts.org
@@ -22,6 +22,6 @@ type: application
 version: 2021.2.3
 annotations:
   truecharts.org/catagories: |
-    - build
+    - development
   truecharts.org/SCALE-support: "true"
   truecharts.org/grade: U
