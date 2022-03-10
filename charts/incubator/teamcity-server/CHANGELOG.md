@@ -7,5 +7,3 @@
 #### Chore
 
 * create teamcity server chart ([#2122](https://github.com/truecharts/apps/issues/2122))
-
-
